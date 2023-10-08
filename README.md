@@ -1,39 +1,33 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="UTF-8">
-    <title>LeetCode Solutions Repository</title>
-</head>
-<body>
-    <h1>Welcome to my LeetCode Solutions Repository</h1>
-    
-    <p>Hello, I'm Priyanshu Chaurasia, an engineering student passionate about learning and practicing Data Structures and Algorithms (DSA). In this repository, you'll find the source code for various questions I've solved on LeetCode. All the code provided here has passed all the test cases on LeetCode.</p>
-    
-    <p>If you'd like to connect with me on LeetCode, you can visit my profile <a href="https://leetcode.com/iamsainty/">here</a>.</p>
-    
-    <h2>Folder Structure</h2>
-    <p>I've organized the repository into different folders based on the type of question series:</p>
-    
-    <ul>
-        <li><a href="/leetcode-75">LeetCode 75</a>: Series of 75 top interview coding questions.</li>
-        <!-- Add more folders and descriptions here -->
-    </ul>
-    
-    <h2>Contributions</h2>
-    <p>Feel free to contribute to this repository by submitting your solutions or improvements. Your contributions are welcome!</p>
-    
-    <h2>License</h2>
-    <p>This repository is licensed under the MIT License - see the <a href="/LICENSE">LICENSE</a> file for details.</p>
-    
-    <h2>Connect with Me</h2>
-    <p>You can reach out to me on:</p>
-    <ul>
-        <li><a href="https://github.com/your-github-username">GitHub</a></li>
-        <li><a href="https://linkedin.com/in/your-linkedin-profile">LinkedIn</a></li>
-        <!-- Add more social media links as needed -->
-    </ul>
-    
-    <hr>
-    <p>Happy coding!</p>
-</body>
-</html>
+# Priyanshu Chaurasia's LeetCode Practice Repository
+
+Welcome to my LeetCode practice repository! I'm Priyanshu Chaurasia, an engineering student passionate about honing my data structures and algorithms (DSA) skills. In this repository, you'll find the source code for various LeetCode questions I've solved while learning and practicing DSA.
+
+## About Me
+- **Name:** Priyanshu Chaurasia
+- **LeetCode Profile:** [LeetCode Profile](https://leetcode.com/iamsainty/)
+
+## Repository Structure
+I've organized this repository to make it easy for you to explore my solutions to different types of LeetCode questions:
+
+- **[LeetCode 75](/LeetCode75):** This folder contains my solutions to the 75 top interview coding questions on LeetCode.
+- **[Data Structures](/Data%20Structures):** Here, you'll find implementations of various data structures I've used in my solutions.
+- **[Algorithms](/Algorithms):** This folder includes efficient algorithms that I've employed in solving LeetCode problems.
+- **[Miscellaneous](/Miscellaneous):** In this section, you'll discover additional resources, notes, or other related content that may be helpful for your DSA journey.
+
+## How to Use This Repository
+Feel free to explore the source code and solutions in this repository. Each LeetCode problem is well-documented with explanations and comments to help you understand the thought process behind the code. You can use these solutions as a reference while working on your own LeetCode challenges.
+
+## Disclaimer
+All the source codes in this repository have passed all test cases on LeetCode at the time of submission. However, LeetCode is an evolving platform, and problem requirements may change. Please ensure that you cross-verify the solutions with the current problem statements and test cases on LeetCode.
+
+If you find any issues with my solutions or have suggestions for improvement, please don't hesitate to open an issue or pull request. I'm open to collaboration and constructive feedback.
+
+Happy coding, and best of luck with your LeetCode journey!
+
+**Connect with me:**
+- [LinkedIn](https://www.linkedin.com/in/priyanshu-chaurasia/)
+- [GitHub](https://github.com/iamsainty)
+
+---
+
+*Disclaimer: This repository is intended for educational purposes and personal reference. Please adhere to LeetCode's guidelines and policies while using the platform.*
