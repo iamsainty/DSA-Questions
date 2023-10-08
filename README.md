@@ -1,29 +1,39 @@
-# LeetCode Solutions Repository
-
-![LeetCode](https://img.shields.io/badge/LeetCode-iamsainty-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-blue)
-
-## Introduction
-
-Hello there! I'm Priyanshu Chaurasia, an engineering student passionate about Data Structures and Algorithms (DSA). This repository serves as my collection of solutions to LeetCode coding challenges, as I continue to learn and practice DSA concepts.
-
-You can check out my LeetCode profile [here](https://leetcode.com/iamsainty/).
-
-## Repository Structure
-
-- **LeetCode 75**: This folder contains my solutions to the "75 Top Interview Coding Questions" series on LeetCode.
-- **Other Series**: In addition to the LeetCode 75, I have organized my solutions for various other series and categories within separate folders.
-
-## Why You Can Trust These Solutions
-
-I'm committed to providing accurate and efficient solutions to LeetCode problems. Every solution in this repository has successfully passed all the test cases on LeetCode. You can rely on these solutions for your learning and reference purposes.
-
-## Contribution
-
-If you find any issues with the code, have suggestions for improvements, or want to contribute additional solutions, feel free to open an issue or create a pull request. I welcome collaboration and appreciate your contributions to make this repository even more valuable for the community.
-
-## License
-
-This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-Happy coding!
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>LeetCode Solutions Repository</title>
+</head>
+<body>
+    <h1>Welcome to my LeetCode Solutions Repository</h1>
+    
+    <p>Hello, I'm Priyanshu Chaurasia, an engineering student passionate about learning and practicing Data Structures and Algorithms (DSA). In this repository, you'll find the source code for various questions I've solved on LeetCode. All the code provided here has passed all the test cases on LeetCode.</p>
+    
+    <p>If you'd like to connect with me on LeetCode, you can visit my profile <a href="https://leetcode.com/iamsainty/">here</a>.</p>
+    
+    <h2>Folder Structure</h2>
+    <p>I've organized the repository into different folders based on the type of question series:</p>
+    
+    <ul>
+        <li><a href="/leetcode-75">LeetCode 75</a>: Series of 75 top interview coding questions.</li>
+        <!-- Add more folders and descriptions here -->
+    </ul>
+    
+    <h2>Contributions</h2>
+    <p>Feel free to contribute to this repository by submitting your solutions or improvements. Your contributions are welcome!</p>
+    
+    <h2>License</h2>
+    <p>This repository is licensed under the MIT License - see the <a href="/LICENSE">LICENSE</a> file for details.</p>
+    
+    <h2>Connect with Me</h2>
+    <p>You can reach out to me on:</p>
+    <ul>
+        <li><a href="https://github.com/your-github-username">GitHub</a></li>
+        <li><a href="https://linkedin.com/in/your-linkedin-profile">LinkedIn</a></li>
+        <!-- Add more social media links as needed -->
+    </ul>
+    
+    <hr>
+    <p>Happy coding!</p>
+</body>
+</html>
